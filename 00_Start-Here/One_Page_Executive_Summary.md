@@ -1,3 +1,10 @@
+<!--
+Author/Owner: Badr Karim | Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Compliance
+LinkedIn: https://www.linkedin.com/in/badrkarim/
+Last updated: 2026-03-03
+Classification: Internal (Portfolio)
+-->
+
 # One-Page Executive Summary — US Privacy Cloud TPRM
 
 **Purpose:** Reduce third-party risk by making vendor decisions **impact-driven**, **control-based**, and **evidence-backed**.

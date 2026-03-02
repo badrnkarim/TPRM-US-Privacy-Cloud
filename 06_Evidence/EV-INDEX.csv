@@ -1,4 +1,9 @@
 EV_ID,Control_ID,Artifact_Name,Artifact_Type,Owner,Date_Received,Validity_Window,Review_Status,Reviewer_Notes
-EV-001,TPRM-US-CLD-008,MFA/SSO Configuration Screenshot,Screenshot,Vendor,YYYY-MM-DD,12 months,Pending,
-EV-002,TPRM-US-CLD-012,Incident Response Plan,Document,Vendor,YYYY-MM-DD,12 months,Pending,
-EV-003,TPRM-US-CLD-003,Retention & Deletion Policy,Document,Vendor,YYYY-MM-DD,12 months,Pending,
+EV-001,TPRM-US-CLD-008,SSO + MFA Enforcement Evidence,Screenshot/Config Export,Vendor,2026-03-03,12 months,Accepted,"Meets High-tier auth baseline. See 06_Evidence/Artifacts/EV-001_SSO_MFA_Enforcement.md"
+EV-002,TPRM-US-CLD-012,Incident Response Plan Summary,Document (Sanitized),Vendor,2026-03-03,12 months,Accepted w/ Conditions,"IR lifecycle covered. Contract must include time-bound notification (C-01). See EV-002 artifact."
+EV-003,TPRM-US-CLD-003,Retention + Deletion Workflow Summary,Document (Sanitized),Vendor,2026-03-03,12 months,Accepted w/ Conditions,"Workflow exists; require deletion SLA + deletion confirmation at termination (C-01). See EV-003 artifact."
+EV-004,TPRM-US-CLD-005,Subprocessor List + Change Process,Document/Portal Export (Sanitized),Vendor,2026-03-03,12 months,Accepted w/ Conditions,"List provided; require time-bound change notification + flow-down terms (C-01). See EV-004 artifact."
+EV-005,TPRM-US-CLD-015,SOC 2 Type II Summary/Bridge Letter,Assurance Summary,Vendor,2026-03-03,12 months,Accepted,"Assurance posture acceptable for High tier (full report may be NDA). See EV-005 artifact."
+EV-009,TPRM-US-CLD-010,Logging & Retention Controls Summary,Document (Sanitized),Vendor,2026-03-03,12 months,Accepted,"Access/admin logging available; retention supports investigations. See EV-009 artifact."
+EV-010,TPRM-US-CLD-001,DPA / Privacy Annex Clause Set,Contract Draft,Customer,2026-03-03,Until signed,Pending,"Execute to meet US privacy expectations (purpose, retention/deletion SLA, subprocessors, breach SLA). Condition C-01. See EV-010 artifact."
+EV-011,TPRM-US-CLD-008,API Governance Hardening,Config/Procedure,Customer+Vendor,2026-03-03,12 months,Pending,"Implement allowlisting/token rotation/SCIM or documented alternative. Condition C-02. See EV-011 artifact."

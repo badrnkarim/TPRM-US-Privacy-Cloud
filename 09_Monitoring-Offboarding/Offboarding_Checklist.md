@@ -1,3 +1,10 @@
+<!--
+Author/Owner: Badr Karim | Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Compliance
+LinkedIn: https://www.linkedin.com/in/badrkarim/
+Last updated: 2026-03-03
+Classification: Internal (Portfolio)
+-->
+
 # Offboarding Checklist (Vendor Exit)
 
 - Disable accounts, API keys, tokens, VPN, and privileged access

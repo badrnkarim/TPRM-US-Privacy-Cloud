@@ -1,45 +1,37 @@
-# TPRM-US-Privacy-Cloud
-**US Privacy + Cloud Data Protection TPRM Program (Portfolio-Grade)**
-
-**Risk-first TPRM.** This program evaluates vendor risk using **business impact + data protection exposure**, then enforces **risk-based controls** with **audit-ready evidence**.
-
-> Built to reflect US privacy expectations (CIPP/US-aligned thinking) and modern cloud data protection realities.
-> Not legal advice; designed as a practical GRC/assurance program with defensible artifacts.
-
----
-
-## Start Here (Reviewer Path)
-1) **Executive summary:** `00_Start-Here/One_Page_Executive_Summary.md`  
-2) **Reviewer guide (what to open + why):** `00_Start-Here/Reviewer_Guide.md`  
-3) **Policy/Standard/SOP:** `01_Policy-and-Program/`  
-4) **Inherent + residual risk models:** `03_Risk-Scoring/`  
-5) **Tiered questionnaire + evidence:** `04_Due-Diligence/` and `06_Evidence/`  
-6) **Decision + remediation workflow:** `07_Decision-Remediation/`  
-7) **US privacy contract checklist:** `08_Contracts/`  
-8) **Monitoring + offboarding:** `09_Monitoring-Offboarding/`
-
----
-
-## Program Scope (Cloud + US Privacy)
-- **Company scenario:** Northbridge Cloud (US B2B SaaS)
-- **Primary data risk:** PII + customer content + logs/identifiers + credentials/secrets exposure risk
-- **Primary vendor universe:** SaaS vendors, cloud/IaaS/PaaS, MSPs, security vendors, data processors
-- **US privacy emphasis:** transparency/notice, purpose limitation, minimization, retention, consumer rights handling, service provider requirements, breach readiness
-- **Cloud emphasis:** shared responsibility, tenant isolation, encryption, key management, access paths, logging, incident readiness
-
----
-
-## Core Outputs (What this repo delivers)
-- Full **TPRM lifecycle**: intake → inherent risk → due diligence → evidence → residual risk → decision → remediation → monitoring → offboarding
-- Weighted **Inherent Risk Model** (0–100) + **Residual Risk** scoring with evidence confidence
-- Tiered **Vendor Due Diligence Questionnaire** with a dedicated **US privacy module**
-- Unified **Control Library** with **US privacy obligations matrix** + cloud security controls
-- Evidence system: **EV-INDEX** + acceptance criteria + reviewer notes structure
-- Decision matrix + remediation tracker + exception workflow
-- Contract addendum checklist focused on US privacy + cloud data controls
-
----
-
-## Connect
-**Badr Karim** — Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Compliance  
+# TPRM — US Privacy + Cloud Data Protection (Audit-Ready Program Portfolio)
+**Author/Owner:** Badr Karim — Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Compliance  
 LinkedIn: https://www.linkedin.com/in/badrkarim/
+
+This repository is my **personal Third-Party Risk Management (TPRM) program portfolio** built in a **US workplace style**:
+risk tiering, defensible scoring, required controls by risk, and **audit-ready evidence discipline**.
+
+**Focus:** US privacy expectations + cloud vendor data protection.  
+> Not legal advice. Templates are structured for professional assurance/GRC use and can be adapted to organizational context.
+
+---
+
+## Start Here (Fast Reviewer Path)
+1) `00_Start-Here/Portfolio_Authenticity_Statement.md`
+2) `00_Start-Here/Executive_Summary.md`
+3) `00_Start-Here/Reviewer_Guide.md`
+4) `01_Policy-and-Program/TPRM_Policy.md`
+5) Risk models: `03_Risk-Scoring/Inherent_Risk_Model.md` + `03_Risk-Scoring/Residual_Risk_Model.md`
+6) Tiered DDQ + privacy add-on: `04_Due-Diligence/Due_Diligence_Questionnaire_Tiered.md` + `11_US-Privacy-CIPP-US/US_Privacy_Vendor_Requirements.md`
+7) Controls + mapping: `05_Control-Library-and-Mapping/Unified_Control_Library_US_Cloud.md`
+8) Evidence system: `06_Evidence/EV-INDEX.csv` + `06_Evidence/Evidence_Acceptance_Criteria.md`
+9) Decision + remediation: `07_Decision-Remediation/Decision_Matrix.md` + `07_Decision-Remediation/Remediation_Tracker.csv`
+10) Contracts + monitoring/offboarding: `08_Contracts/` + `09_Monitoring-Offboarding/`
+
+---
+
+## What makes this US-grade
+- **US privacy-first vendor oversight:** purpose limitation, minimization, retention/deletion, subprocessor flow-down, breach readiness
+- **Cloud assurance lens:** access paths (SSO/API/admin), encryption, key management model, logging/retention, shared-responsibility clarity
+- **Risk-first decisions:** impact + exposure → required controls → evidence → residual risk → decision
+- **Controlled-document discipline:** owner, versioning, review cycle, and reviewer-ready artifacts
+
+---
+
+## Sanitized Sample Vendor Package (End-to-End)
+`10_Examples/Sanitized_Sample_Vendor_Package/` contains a complete **High-tier SaaS CRM** case:
+intake → DDQ → evidence index → residual risk → decision → remediation.

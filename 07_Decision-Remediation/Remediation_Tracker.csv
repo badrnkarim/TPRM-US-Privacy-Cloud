@@ -1,3 +1,3 @@
 Item_ID,Vendor,Gap,Control_ID,Risk_Impact,Remediation_Action,Owner,Due_Date,Status,Verification_Evidence
-R-001,VendorName,MFA missing,TPRM-US-CLD-008,High,Enable SSO/MFA for admin access,Vendor,YYYY-MM-DD,Open,
-R-002,VendorName,No retention policy,TPRM-US-CLD-003,Medium,Publish retention schedule + deletion process,Vendor,YYYY-MM-DD,Open,
+R-101,AcmeCRM,Execute DPA/privacy annex clauses (purpose limitation, retention/deletion SLA, subprocessors, breach SLA),TPRM-US-CLD-001,High,Finalize and sign addendum; update EV-010 to Accepted,Privacy+Legal,2026-04-17,Open,EV-010
+R-102,AcmeCRM,API governance hardening (allowlisting where supported, rotation ≤90d, least scopes, SCIM),TPRM-US-CLD-008,High,Implement controls; provide config proof; update EV-011 to Accepted,Vendor+IT,2026-04-17,Open,EV-011

@@ -1,3 +1,10 @@
+<!--
+Author/Owner: Badr Karim | Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Compliance
+LinkedIn: https://www.linkedin.com/in/badrkarim/
+Last updated: 2026-03-03
+Classification: Internal (Portfolio)
+-->
+
 # Third-Party Risk Management (TPRM) Policy — US Privacy + Cloud Data Protection
 
 **Owner:** Security GRC (with Privacy + Legal oversight)  

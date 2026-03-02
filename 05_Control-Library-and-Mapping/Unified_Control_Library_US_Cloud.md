@@ -1,3 +1,10 @@
+<!--
+Author/Owner: Badr Karim | Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Compliance
+LinkedIn: https://www.linkedin.com/in/badrkarim/
+Last updated: 2026-03-03
+Classification: Internal (Portfolio)
+-->
+
 # Unified Control Library — US Privacy + Cloud Data Protection (TPRM)
 
 **Purpose:** A single control set used for vendor requirements, mapped at a high level to:
