@@ -1,0 +1,4 @@
+EV_ID,Control_ID,Artifact_Name,Artifact_Type,Owner,Date_Received,Validity_Window,Review_Status,Reviewer_Notes
+EV-001,TPRM-US-CLD-008,MFA/SSO Configuration Screenshot,Screenshot,Vendor,YYYY-MM-DD,12 months,Pending,
+EV-002,TPRM-US-CLD-012,Incident Response Plan,Document,Vendor,YYYY-MM-DD,12 months,Pending,
+EV-003,TPRM-US-CLD-003,Retention & Deletion Policy,Document,Vendor,YYYY-MM-DD,12 months,Pending,
