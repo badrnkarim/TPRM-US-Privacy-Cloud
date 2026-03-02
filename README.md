@@ -35,3 +35,16 @@ risk tiering, defensible scoring, required controls by risk, and **audit-ready e
 ## Sanitized Sample Vendor Package (End-to-End)
 `10_Examples/Sanitized_Sample_Vendor_Package/` contains a complete **High-tier SaaS CRM** case:
 intake → DDQ → evidence index → residual risk → decision → remediation.
+
+---
+
+## Sample Vendor Packages (Sanitized, End-to-End)
+These examples show what a completed vendor assessment looks like with evidence discipline:
+
+1) **High-tier SaaS CRM (SSO + API)**  
+   Folder: `10_Examples/Sanitized_Sample_Vendor_Package/`  
+   Files: `Intake_Filled.md`, `Questionnaire_Filled.md`, `Residual_Risk_Worksheet_AcmeCRM.md`, `Decision_Record_AcmeCRM.md`
+
+2) **Critical-tier MSP (VPN + Privileged Admin Access) — GuardianOps**  
+   Folder: `10_Examples/Sanitized_Sample_Vendor_Package/`  
+   Files: `MSP_Intake_Filled_GuardianOps.md`, `MSP_Questionnaire_Filled_GuardianOps.md`, `Residual_Risk_Worksheet_GuardianOps.md`, `Decision_Record_GuardianOps.md`
