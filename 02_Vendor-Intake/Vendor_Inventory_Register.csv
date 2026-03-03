@@ -1,0 +1,3 @@
+Vendor,Vendor_Type,Service,Data_Classification,PII,Access_Type,Tier,Inherent_Score,Residual_Score,Decision,Conditions,Next_Review_Date,Business_Owner,Status,Notes
+AcmeCRM,SaaS CRM,CRM for sales/customer success,Confidential,Yes,SSO+API,High,58,11,Approve with Conditions,"C-01 DPA clauses; C-02 API governance",2027-03-01,Sales Ops,Active,Sanitized sample package in 10_Examples
+GuardianOps MSP,MSP,Managed IT operations/support,Restricted/Confidential,Yes,VPN+Privileged Admin,Critical,86,21,Approve with Conditions,"C-04 Privileged access hardening; C-05 SOC2",2027-03-01,IT Ops,Active,Sanitized sample package in 10_Examples

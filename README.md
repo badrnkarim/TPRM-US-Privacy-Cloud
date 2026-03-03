@@ -48,3 +48,18 @@ These examples show what a completed vendor assessment looks like with evidence 
 2) **Critical-tier MSP (VPN + Privileged Admin Access) — GuardianOps**  
    Folder: `10_Examples/Sanitized_Sample_Vendor_Package/`  
    Files: `MSP_Intake_Filled_GuardianOps.md`, `MSP_Questionnaire_Filled_GuardianOps.md`, `Residual_Risk_Worksheet_GuardianOps.md`, `Decision_Record_GuardianOps.md`
+
+---
+
+## Program Upgrades (Privacy + Cloud)
+- Playbook: `00_Start-Here/TPRM_Playbook_OnePager.md`
+- CIPP/US companion: `00_Start-Here/CIPPUS_Study_Map.md`
+- DSAR vendor readiness: `11_US-Privacy-CIPP-US/DSAR_Vendor_Readiness_Checklist.md`
+- RoPA-lite template: `11_US-Privacy-CIPP-US/RoPA_Lite_Template.md`
+- DPA clause library: `08_Contracts/DPA_Clause_Library_US_Privacy.md`
+- Cloud assurance: `12_Cloud-Data-Protection/Shared_Responsibility_Template.md`
+- Encryption/key mgmt: `12_Cloud-Data-Protection/Encryption_Key_Management_Expectations.md`
+- Logging requirements: `12_Cloud-Data-Protection/Logging_Requirements.md`
+- Vendor inventory: `02_Vendor-Intake/Vendor_Inventory_Register.csv`
+- Metrics dashboard: `09_Monitoring-Offboarding/TPRM_Metrics.md`
+- Exception workflow: `07_Decision-Remediation/Risk_Acceptance_Form.md`
