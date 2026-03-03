@@ -18,3 +18,15 @@ This artifact represents portfolio-grade evidence for reviewability and traceabi
 
 ## Reviewer notes
 - Add concise validation notes, scope, and any conditions.
+
+## Proof summary (sanitized)
+This artifact contains **sanitized** proof of control implementation appropriate for a portfolio:
+- what was reviewed
+- what acceptance criteria were applied
+- what evidence would be checked in a real engagement
+
+## Reviewer validation notes
+- Reviewed by: Badr Karim
+- Review date: 2026-03-03
+- Validation: Critical-tier control requirement reviewed; pending items require closure evidence before full approval.
+- Result: Tracked via remediation and will be revalidated upon completion.

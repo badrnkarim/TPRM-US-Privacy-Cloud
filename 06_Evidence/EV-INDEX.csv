@@ -1,11 +1,11 @@
 EV_ID,Control_ID,Artifact_Name,Artifact_Type,Owner,Date_Received,Validity_Window,Review_Status,Reviewer_Notes
-EV-010,TPRM-US-CLD-001,DPA / Privacy Annex Clause Set (Purpose/Deletion/Subprocessors/Breach SLA),Contract Draft,Customer,2026-03-03,12 months,Pending,"Condition C-01. Execute contract clauses."
-EV-011,TPRM-US-CLD-008,API Governance Hardening (Allowlisting/Rotation/Deprovisioning),Config/Procedure,Customer+Vendor,2026-03-03,12 months,Pending,"Condition C-02. Implement and evidence."
-EV-020,TPRM-US-CLD-009,Privileged Access Hardening (JIT/JEA + Session Logging),Design/Procedure,Customer+Vendor,2026-03-03,12 months,Pending,"Condition C-04."
-EV-021,TPRM-US-CLD-009,VPN Restrictions (Allowlisting + Device Posture + MFA),Config/Procedure,Customer+Vendor,2026-03-03,12 months,Pending,"Condition C-04."
-EV-022,TPRM-US-CLD-015,Independent Assurance Evidence (SOC 2 Type II or equivalent),Assurance,Vendor,2026-03-03,12 months,Pending,"Condition C-05."
-EV-030,TPRM-US-CLD-001,Privacy Annex (Purpose/DSAR/Subprocessors/Breach SLA),Contract Draft,Customer,2026-03-03,12 months,Pending,"Condition C-06."
-EV-031,TPRM-US-CLD-002,Minimization Field Allowlist + Ingestion Mapping,Design/Procedure,Customer+Vendor,2026-03-03,12 months,Accepted w/ Conditions,"Condition C-07. Validate enforcement."
-EV-032,TPRM-US-CLD-003,Retention + Verifiable Deletion Confirmation,Procedure/Evidence,Vendor,2026-03-03,12 months,Accepted w/ Conditions,"Condition C-07. Include subprocessor propagation proof."
-EV-033,TPRM-US-CLD-004,DSAR Workflow + SLA + Deletion Propagation,Procedure,Vendor,2026-03-03,12 months,Pending,"Condition C-06."
-EV-037,TPRM-US-CLD-005,Subprocessor Governance + Notice Window,Disclosure/Terms,Vendor,2026-03-03,12 months,Accepted w/ Conditions,"Condition C-06."
+EV-010,TPRM-US-CLD-001,DPA / Privacy Annex Clause Set (Purpose/Deletion/Subprocessors/Breach SLA),Contract Draft,Customer,2026-03-03,12 months,Accepted,"Closure demo: Contract/privacy annex executed; purpose limitation, retention/deletion confirmation, subprocessor flow-down + notice, and breach SLA confirmed."
+EV-011,TPRM-US-CLD-008,API Governance Hardening (Allowlisting/Rotation/Deprovisioning),Config/Procedure,Customer+Vendor,2026-03-03,12 months,Accepted,"Closure demo: API governance implemented; least scopes, rotation, deprovisioning, and allowlisting where supported validated."
+EV-020,TPRM-US-CLD-009,Privileged Access Hardening (JIT/JEA + Session Logging),Design/Procedure,Customer+Vendor,2026-03-03,12 months,Pending,Condition C-04.
+EV-021,TPRM-US-CLD-009,VPN Restrictions (Allowlisting + Device Posture + MFA),Config/Procedure,Customer+Vendor,2026-03-03,12 months,Pending,Condition C-04.
+EV-022,TPRM-US-CLD-015,Independent Assurance Evidence (SOC 2 Type II or equivalent),Assurance,Vendor,2026-03-03,12 months,Pending,Condition C-05.
+EV-030,TPRM-US-CLD-001,Privacy Annex (Purpose/DSAR/Subprocessors/Breach SLA),Contract Draft,Customer,2026-03-03,12 months,Pending,Condition C-06.
+EV-031,TPRM-US-CLD-002,Minimization Field Allowlist + Ingestion Mapping,Design/Procedure,Customer+Vendor,2026-03-03,12 months,Accepted w/ Conditions,Condition C-07. Validate enforcement.
+EV-032,TPRM-US-CLD-003,Retention + Verifiable Deletion Confirmation,Procedure/Evidence,Vendor,2026-03-03,12 months,Accepted w/ Conditions,Condition C-07. Include subprocessor propagation proof.
+EV-033,TPRM-US-CLD-004,DSAR Workflow + SLA + Deletion Propagation,Procedure,Vendor,2026-03-03,12 months,Pending,Condition C-06.
+EV-037,TPRM-US-CLD-005,Subprocessor Governance + Notice Window,Disclosure/Terms,Vendor,2026-03-03,12 months,Accepted w/ Conditions,Condition C-06.

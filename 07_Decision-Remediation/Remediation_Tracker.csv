@@ -1,6 +1,6 @@
 Item_ID,Vendor,Gap,Control_ID,Risk_Impact,Remediation_Action,Owner,Due_Date,Status,Verification_Evidence
-R-101,AcmeCRM,Execute DPA/privacy annex clauses (purpose, deletion SLA, subprocessors, breach SLA),TPRM-US-CLD-001,High,Finalize and sign addendum; close EV-010,Privacy+Legal,2026-04-17,Open,EV-010
-R-102,AcmeCRM,API governance hardening (allowlisting/token rotation/deprovisioning),TPRM-US-CLD-008,High,Implement controls and provide proof; close EV-011,Vendor+IT,2026-04-17,Open,EV-011
+R-101,AcmeCRM,Execute DPA/privacy annex clauses (purpose, deletion SLA, subprocessors, breach SLA),TPRM-US-CLD-001,High,Closed,Privacy+Legal,2026-04-17,Open,EV-010
+R-102,AcmeCRM,API governance hardening (allowlisting/token rotation/deprovisioning),TPRM-US-CLD-008,High,Implement controls and provide proof; close EV-011,Vendor+IT,2026-04-17,Closed,EV-011
 R-201,GuardianOps MSP,Privileged/VPN hardening (JIT/JEA/session logging/posture),TPRM-US-CLD-009,Critical,Implement and evidence hardening; close EV-020/EV-021,Customer+Vendor,2026-04-17,Open,EV-020;EV-021
 R-202,GuardianOps MSP,SOC2 Type II (or equivalent) missing,TPRM-US-CLD-015,Critical,Provide assurance evidence; close EV-022,Vendor,2026-04-17,Open,EV-022
 R-301,DataPulse Analytics,Privacy annex for purpose limitation + DSAR SLAs + subprocessors + breach SLA,TPRM-US-CLD-001,High,Execute clauses; close EV-030/EV-033/EV-037,Privacy+Legal,2026-04-17,Open,EV-030;EV-033;EV-037

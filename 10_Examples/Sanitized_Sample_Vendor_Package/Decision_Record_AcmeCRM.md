@@ -20,3 +20,17 @@ Decision: ✅ **Approve with Conditions**
 ## Compensating controls (until closure)
 - Minimum API scopes + dedicated integration account
 - Weekly admin/API log review during remediation window
+
+## Closed Findings (Closure Demonstration)
+Closure Date: 2026-03-03
+
+- **C-01 (Contract/DPA privacy annex)** — Closed  
+  Evidence: **EV-010 (Accepted)**  
+  Notes: Purpose limitation, retention/deletion confirmation, subprocessor flow-down + notice, and breach notification SLA confirmed.
+
+- **C-02 (API governance hardening)** — Closed  
+  Evidence: **EV-011 (Accepted)**  
+  Notes: Least scopes, rotation, deprovisioning, and allowlisting where supported validated.
+
+### Final Status
+**Approved (no open conditions).**
