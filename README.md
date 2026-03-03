@@ -68,3 +68,9 @@ These examples show what a completed vendor assessment looks like with evidence 
    Files: `Analytics_Intake_Filled_DataPulse.md`, `Analytics_Questionnaire_Filled_DataPulse.md`,
           `RoPA_Lite_Filled_DataPulse.md`, `DSAR_Readiness_Filled_DataPulse.md`,
           `Residual_Risk_Worksheet_DataPulse.md`, `Decision_Record_DataPulse.md`
+
+---
+
+## Business Decision Pack (Decision-Maker Artifacts)
+Folder: `13_Business-Decision-Pack/`
+Includes executive decision briefs, approval authority matrix, risk committee brief, procurement handoff, and sample decision-maker documents.
