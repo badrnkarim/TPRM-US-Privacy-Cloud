@@ -7,7 +7,7 @@ Version: 1.0
 Effective Date: 2026-03-03
 Review Cycle: Annual (or on major change)
 Classification: Internal (Portfolio)
-Approvers: Security (Owner) + Privacy + Legal (roles)
+Note: Not legal advice. Portfolio-grade templates must be adapted to organizational context.
 -->
 
 # Portfolio Authenticity Statement
@@ -15,4 +15,4 @@ This repository is a **personal TPRM program portfolio** authored and maintained
 
 - It is **not** represented as an employer/client deliverable.
 - Templates and examples are **original work** designed to reflect US workplace TPRM practices.
-- Sample vendor content is **sanitized** to demonstrate process quality, traceability, and evidence discipline.
+- Sample vendor packages are **sanitized** to demonstrate process rigor, traceability, and evidence discipline.

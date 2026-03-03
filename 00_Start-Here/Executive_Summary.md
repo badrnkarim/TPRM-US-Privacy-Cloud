@@ -1,13 +1,13 @@
 <!--
 Document ID: TPRM-00-EXEC
-Title: Executive Summary — US Privacy + Cloud TPRM
+Title: Executive Summary
 Author/Owner: Badr Karim | Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Compliance
 LinkedIn: https://www.linkedin.com/in/badrkarim/
 Version: 1.0
 Effective Date: 2026-03-03
 Review Cycle: Annual (or on major change)
 Classification: Internal (Portfolio)
-Approvers: Security (Owner) + Privacy + Legal (roles)
+Note: Not legal advice. Portfolio-grade templates must be adapted to organizational context.
 -->
 
 # Executive Summary
@@ -20,4 +20,4 @@ Intake → Inherent Risk → Tiering → Due Diligence → Evidence → Residual
 Approve | Approve with Conditions | Reject | Exception (time-bound, documented)
 
 ## Evidence discipline
-Every control requirement is tied to an evidence item (EV-###) with reviewer notes and validity windows.
+Every requirement is tied to evidence (EV-###) with reviewer notes and validity windows.

@@ -1,6 +1,6 @@
 <!--
-Document ID: TPRM-06-EV-011
-Title: EV-011 — API_Governance_Hardening
+Document ID: TPRM-06-EV-031
+Title: EV-031 — Minimization_Field_Allowlist
 Author/Owner: Badr Karim | Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Compliance
 LinkedIn: https://www.linkedin.com/in/badrkarim/
 Version: 1.0
@@ -9,6 +9,6 @@ Review Cycle: Annual (or on major change)
 Classification: Internal (Portfolio)
 Note: Not legal advice. Portfolio-grade templates must be adapted to organizational context.
 -->
-Control ID: **TPRM-US-CLD-008**
-Status: **Pending**
+Control ID: **TPRM-US-CLD-002**
+Status: **Accepted w/ Conditions**
 Summary: Sanitized portfolio evidence artifact.

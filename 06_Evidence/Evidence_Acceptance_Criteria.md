@@ -1,24 +1,17 @@
 <!--
+Document ID: TPRM-06-EAC
+Title: Evidence Acceptance Criteria
 Author/Owner: Badr Karim | Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Compliance
 LinkedIn: https://www.linkedin.com/in/badrkarim/
-Last updated: 2026-03-03
+Version: 1.0
+Effective Date: 2026-03-03
+Review Cycle: Annual (or on major change)
 Classification: Internal (Portfolio)
+Note: Not legal advice. Portfolio-grade templates must be adapted to organizational context.
 -->
 
-# Evidence Acceptance Criteria (Vendor Evidence)
-
-## Evidence strength levels
-- **Level A (Strong):** SOC 2 Type II report, ISO 27001 certificate + statement of applicability summary, independent assessment letter
-- **Level B (Good):** current policies + screenshots + configs + logs + signed attestations
-- **Level C (Weak):** screenshots only, outdated docs, incomplete responses
-
-## Minimum evidence expectations by tier
-- Low: Level B
-- Medium: Level B
-- High: Level B+ (some Level A preferred)
-- Critical: Level A required where possible + Level B operational proof
-
-## Evidence review rules
-- Evidence must be current (within 12 months for High/Critical)
-- Evidence must be internally consistent (no contradictions)
-- Evidence must map to a control ID and requirement
+# Evidence Acceptance Criteria
+Level A: SOC2 Type II / ISO cert / independent assurance  
+Level B: policies + configs + logs + attestations  
+Level C: screenshots only / outdated  
+High/Critical require A where possible + strong B operational proof.

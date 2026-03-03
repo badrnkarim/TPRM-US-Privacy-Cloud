@@ -1,6 +1,6 @@
 <!--
-Document ID: TPRM-06-EV-011
-Title: EV-011 — API_Governance_Hardening
+Document ID: TPRM-10-GuardianOpsMSP-INT
+Title: Intake — GuardianOps MSP (Critical, Sanitized)
 Author/Owner: Badr Karim | Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Compliance
 LinkedIn: https://www.linkedin.com/in/badrkarim/
 Version: 1.0
@@ -9,6 +9,5 @@ Review Cycle: Annual (or on major change)
 Classification: Internal (Portfolio)
 Note: Not legal advice. Portfolio-grade templates must be adapted to organizational context.
 -->
-Control ID: **TPRM-US-CLD-008**
-Status: **Pending**
-Summary: Sanitized portfolio evidence artifact.
+# Intake — GuardianOps MSP (Sanitized)
+Tier: **Critical** | Inherent: **86** | Data: **Operational identifiers + access pathways (Restricted/Confidential)** | Access: **VPN + Privileged Admin**
