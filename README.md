@@ -45,3 +45,15 @@ These demonstrate real execution: intake → DDQ → evidence → residual risk 
 - Monitoring: `16_Monitoring/`
 - Assessment Reporting: `17_Assessment-Reporting/`
 - Audit Readiness: `18_Audit-Readiness/`
+
+---
+
+## Visual Proof (Sanitized)
+**EV-INDEX (Evidence Register):**  
+![EV-INDEX (Sanitized)](assets/screenshots/01-ev-index.png)
+
+**Remediation Tracker (Closed Items):**  
+![Remediation Closed (Sanitized)](assets/screenshots/02-remediation-closed.png)
+
+**One-Page Vendor Risk Summary:**  
+![Vendor Risk Summary (Sanitized)](assets/screenshots/03-vendor-risk-summary.png)
