@@ -36,3 +36,12 @@ These demonstrate real execution: intake → DDQ → evidence → residual risk 
 
 3) **High-tier Data Analytics (Large-scale PII)** — **privacy-heavy**  
    Files: `Intake_DataPulse.md`, `DDQ_DataPulse.md`, `RoPA_DataPulse.md`, `DSAR_DataPulse.md`, `ResidualRisk_DataPulse.md`, `Decision_DataPulse.md`
+
+---
+
+## Governance, Privacy Ops, Monitoring, Audit Readiness (US-grade)
+- Governance: `14_Governance/`
+- Privacy Operations: `15_Privacy-Ops/`
+- Monitoring: `16_Monitoring/`
+- Assessment Reporting: `17_Assessment-Reporting/`
+- Audit Readiness: `18_Audit-Readiness/`

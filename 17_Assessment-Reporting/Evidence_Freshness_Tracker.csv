@@ -1,0 +1,2 @@
+EV_ID,Vendor,Last_Received,Validity_Window,Expires_On,Status,Owner,Notes
+EV-001,VendorName,YYYY-MM-DD,12 months,YYYY-MM-DD,Active,Security GRC,
