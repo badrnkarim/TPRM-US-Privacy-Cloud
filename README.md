@@ -53,7 +53,6 @@ These examples show what a completed vendor assessment looks like with evidence 
 
 ## Program Upgrades (Privacy + Cloud)
 - Playbook: `00_Start-Here/TPRM_Playbook_OnePager.md`
-- CIPP/US companion: `00_Start-Here/CIPPUS_Study_Map.md`
 - DSAR vendor readiness: `11_US-Privacy-CIPP-US/DSAR_Vendor_Readiness_Checklist.md`
 - RoPA-lite template: `11_US-Privacy-CIPP-US/RoPA_Lite_Template.md`
 - DPA clause library: `08_Contracts/DPA_Clause_Library_US_Privacy.md`
@@ -63,3 +62,9 @@ These examples show what a completed vendor assessment looks like with evidence 
 - Vendor inventory: `02_Vendor-Intake/Vendor_Inventory_Register.csv`
 - Metrics dashboard: `09_Monitoring-Offboarding/TPRM_Metrics.md`
 - Exception workflow: `07_Decision-Remediation/Risk_Acceptance_Form.md`
+
+3) **High-tier Data Analytics (Large-scale PII) — DataPulse Analytics**
+   Folder: `10_Examples/Sanitized_Sample_Vendor_Package/`
+   Files: `Analytics_Intake_Filled_DataPulse.md`, `Analytics_Questionnaire_Filled_DataPulse.md`,
+          `RoPA_Lite_Filled_DataPulse.md`, `DSAR_Readiness_Filled_DataPulse.md`,
+          `Residual_Risk_Worksheet_DataPulse.md`, `Decision_Record_DataPulse.md`
