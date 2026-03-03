@@ -1,4 +1,4 @@
-# TPRM — US Privacy + Cloud Data Protection (Audit-Ready Program Portfolio)
+# TPRM — US Privacy + Cloud Data Protection 
 **Author/Owner:** Badr Karim — Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Privacy-Driven TPRM
 
 LinkedIn: https://www.linkedin.com/in/badrkarim/
